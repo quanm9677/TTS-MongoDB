@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6843f2a8d7ae9b5f9f2eb5ba"
+  },
+  "member_id": "550e8400-e29b-41d4-a716-446655440000",
+  "full_name": "Nguyen Thi A",
+  "email": "nguyena@example.com",
+  "joined_at": {
+    "$date": "2024-01-05T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843f2a8d7ae9b5f9f2eb5bb"
+  },
+  "member_id": "550e8400-e29b-41d4-a716-446655440001",
+  "full_name": "Tran Van B",
+  "email": "tranvb@example.com",
+  "joined_at": {
+    "$date": "2024-02-10T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843f2a8d7ae9b5f9f2eb5bc"
+  },
+  "member_id": "550e8400-e29b-41d4-a716-446655440002",
+  "full_name": "Le Thi C",
+  "email": "lethic@example.com",
+  "joined_at": {
+    "$date": "2024-03-15T14:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843f2a8d7ae9b5f9f2eb5bd"
+  },
+  "member_id": "550e8400-e29b-41d4-a716-446655440003",
+  "full_name": "Pham Van D",
+  "email": "phamvd@example.com",
+  "joined_at": {
+    "$date": "2023-12-01T08:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843f2a8d7ae9b5f9f2eb5be"
+  },
+  "member_id": "550e8400-e29b-41d4-a716-446655440004",
+  "full_name": "Hoang Thi E",
+  "email": "hoange@example.com",
+  "joined_at": {
+    "$date": "2024-04-20T16:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843f2a8d7ae9b5f9f2eb5bf"
+  },
+  "member_id": "550e8400-e29b-41d4-a716-446655440005",
+  "full_name": "Dang Van F",
+  "email": "dangvf@example.com",
+  "joined_at": {
+    "$date": "2024-05-01T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843f2a8d7ae9b5f9f2eb5c0"
+  },
+  "member_id": "550e8400-e29b-41d4-a716-446655440006",
+  "full_name": "Bui Thi G",
+  "email": "buithig@example.com",
+  "joined_at": {
+    "$date": "2023-11-15T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843f2a8d7ae9b5f9f2eb5c1"
+  },
+  "member_id": "550e8400-e29b-41d4-a716-446655440007",
+  "full_name": "Nguyen Van H",
+  "email": "nguyenvh@example.com",
+  "joined_at": {
+    "$date": "2024-01-25T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843f2a8d7ae9b5f9f2eb5c2"
+  },
+  "member_id": "550e8400-e29b-41d4-a716-446655440008",
+  "full_name": "Tran Thi I",
+  "email": "tranthi@example.com",
+  "joined_at": {
+    "$date": "2024-06-30T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6843f2a8d7ae9b5f9f2eb5c3"
+  },
+  "member_id": "550e8400-e29b-41d4-a716-446655440009",
+  "full_name": "Le Van K",
+  "email": "levank@example.com",
+  "joined_at": {
+    "$date": "2024-07-10T09:00:00.000Z"
+  }
+}]

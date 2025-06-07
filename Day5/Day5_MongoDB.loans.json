@@ -1,0 +1,307 @@
+[{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5c4"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+  "member_id": "550e8400-e29b-41d4-a716-446655440000",
+  "books": [
+    {
+      "book_id": "7ca7b810-9dad-11d1-80b4-00c04fd430c8",
+      "title": "Dune",
+      "borrow_date": {
+        "$date": "2024-04-01T00:00:00.000Z"
+      }
+    },
+    {
+      "book_id": "8da7b810-9dad-11d1-80b4-00c04fd430c8",
+      "title": "1984",
+      "borrow_date": {
+        "$date": "2024-04-02T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-15T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5c5"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430c9",
+  "member_id": "550e8400-e29b-41d4-a716-446655440001",
+  "books": [
+    {
+      "book_id": "9ca7b810-9dad-11d1-80b4-00c04fd430c8",
+      "title": "The Hobbit",
+      "borrow_date": {
+        "$date": "2024-03-20T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-05T00:00:00.000Z"
+  },
+  "status": "RETURNED"
+},
+{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5c6"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430ca",
+  "member_id": "550e8400-e29b-41d4-a716-446655440002",
+  "books": [
+    {
+      "book_id": "8da7b810-9dad-11d1-80b4-00c04fd430c8",
+      "title": "1984",
+      "borrow_date": {
+        "$date": "2024-04-10T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-25T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5c7"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430cb",
+  "member_id": "550e8400-e29b-41d4-a716-446655440003",
+  "books": [
+    {
+      "book_id": "7ca7b810-9dad-11d1-80b4-00c04fd430c8",
+      "title": "Dune",
+      "borrow_date": {
+        "$date": "2024-03-28T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-12T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5c8"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430cc",
+  "member_id": "550e8400-e29b-41d4-a716-446655440004",
+  "books": [
+    {
+      "book_id": "abcd1234-9dad-11d1-80b4-00c04fd430c8",
+      "title": "Brave New World",
+      "borrow_date": {
+        "$date": "2024-04-01T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-20T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5c9"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430cd",
+  "member_id": "550e8400-e29b-41d4-a716-446655440005",
+  "books": [
+    {
+      "book_id": "dcba4321-9dad-11d1-80b4-00c04fd430c8",
+      "title": "Fahrenheit 451",
+      "borrow_date": {
+        "$date": "2024-04-03T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-18T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5ca"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430ce",
+  "member_id": "550e8400-e29b-41d4-a716-446655440006",
+  "books": [
+    {
+      "book_id": "123e4567-e89b-12d3-a456-426614174000",
+      "title": "Animal Farm",
+      "borrow_date": {
+        "$date": "2024-04-07T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-22T00:00:00.000Z"
+  },
+  "status": "RETURNED"
+},
+{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5cb"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430cf",
+  "member_id": "550e8400-e29b-41d4-a716-446655440007",
+  "books": [
+    {
+      "book_id": "123e4567-e89b-12d3-a456-426614174001",
+      "title": "The Catcher in the Rye",
+      "borrow_date": {
+        "$date": "2024-04-10T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-24T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5cc"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430d0",
+  "member_id": "550e8400-e29b-41d4-a716-446655440008",
+  "books": [
+    {
+      "book_id": "123e4567-e89b-12d3-a456-426614174002",
+      "title": "To Kill a Mockingbird",
+      "borrow_date": {
+        "$date": "2024-04-05T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-20T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5cd"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430d1",
+  "member_id": "550e8400-e29b-41d4-a716-446655440009",
+  "books": [
+    {
+      "book_id": "123e4567-e89b-12d3-a456-426614174003",
+      "title": "The Great Gatsby",
+      "borrow_date": {
+        "$date": "2024-04-08T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-25T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5ce"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430d2",
+  "member_id": "550e8400-e29b-41d4-a716-446655440000",
+  "books": [
+    {
+      "book_id": "123e4567-e89b-12d3-a456-426614174004",
+      "title": "Moby Dick",
+      "borrow_date": {
+        "$date": "2024-04-11T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-26T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5cf"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430d3",
+  "member_id": "550e8400-e29b-41d4-a716-446655440002",
+  "books": [
+    {
+      "book_id": "123e4567-e89b-12d3-a456-426614174005",
+      "title": "War and Peace",
+      "borrow_date": {
+        "$date": "2024-04-12T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-27T00:00:00.000Z"
+  },
+  "status": "RETURNED"
+},
+{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5d0"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430d4",
+  "member_id": "550e8400-e29b-41d4-a716-446655440004",
+  "books": [
+    {
+      "book_id": "123e4567-e89b-12d3-a456-426614174006",
+      "title": "Hamlet",
+      "borrow_date": {
+        "$date": "2024-04-13T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-28T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5d1"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430d5",
+  "member_id": "550e8400-e29b-41d4-a716-446655440005",
+  "books": [
+    {
+      "book_id": "123e4567-e89b-12d3-a456-426614174007",
+      "title": "Macbeth",
+      "borrow_date": {
+        "$date": "2024-04-14T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-29T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+},
+{
+  "_id": {
+    "$oid": "6843f2acd7ae9b5f9f2eb5d2"
+  },
+  "loan_id": "6ba7b810-9dad-11d1-80b4-00c04fd430d6",
+  "member_id": "550e8400-e29b-41d4-a716-446655440006",
+  "books": [
+    {
+      "book_id": "123e4567-e89b-12d3-a456-426614174008",
+      "title": "The Odyssey",
+      "borrow_date": {
+        "$date": "2024-04-15T00:00:00.000Z"
+      }
+    }
+  ],
+  "due_date": {
+    "$date": "2024-04-30T00:00:00.000Z"
+  },
+  "status": "ACTIVE"
+}]
